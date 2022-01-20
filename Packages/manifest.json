@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "com.unity.ext.nunit": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.test-framework": "1.1.29",
+    "net.tradelite.sdk.unity": "file:/Users/dderrien-tl/Code/Tradelite/unity-sdk"
+  },
+  "testables": [
+    "net.tradelite.sdk.unity"
+  ]
+}
